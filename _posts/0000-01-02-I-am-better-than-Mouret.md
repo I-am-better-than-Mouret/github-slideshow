@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Issue"
 ---
 Im the boss
 Use the left arrow to go back!
